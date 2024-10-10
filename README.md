@@ -1,6 +1,7 @@
 # Ex-8-Implement-the-AES-Encryption-and-decryption
 ## Aim:
 Implement the AES Encryption and decryption
+
 ## Algorithm:
 1. AES is based on a design principle known as a substitution–permutation.
 2. AES does not use a Feistel network like DES, it uses variant of Rijndael.
